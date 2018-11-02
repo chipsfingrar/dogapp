@@ -1,0 +1,11 @@
+{
+  "main.js": "/dogapp/static/js/main.d19f9005.chunk.js",
+  "main.js.map": "/dogapp/static/js/main.d19f9005.chunk.js.map",
+  "static/js/1.7e9ab0c4.chunk.js": "/dogapp/static/js/1.7e9ab0c4.chunk.js",
+  "static/js/1.7e9ab0c4.chunk.js.map": "/dogapp/static/js/1.7e9ab0c4.chunk.js.map",
+  "runtime~main.js": "/dogapp/static/js/runtime~main.f44331f2.js",
+  "runtime~main.js.map": "/dogapp/static/js/runtime~main.f44331f2.js.map",
+  "index.html": "/dogapp/index.html",
+  "precache-manifest.b8e2609836e4eb86c43cae867a29fb69.js": "/dogapp/precache-manifest.b8e2609836e4eb86c43cae867a29fb69.js",
+  "service-worker.js": "/dogapp/service-worker.js"
+}
